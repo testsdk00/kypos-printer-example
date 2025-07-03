@@ -61,7 +61,7 @@
 import { Printer } from '@node-escpos/core'
 import Serial from '@node-escpos/serialport-adapter'
 
-const LINE_WIDTH = 21;
+const LINE_WIDTH = 48;
 const NAME_COL = 8;
 const QTY_COL = 3;
 const PRICE_COL = 8;
